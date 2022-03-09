@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# GRC Website documentation
+
+## Testing
+
+1. Login at: https://www.grcrunning.com/login
+
 
 You can use the [editor on GitHub](https://github.com/imkacarlson/grc-website-documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
